@@ -5,3 +5,5 @@
 /.vs
 /CoreWebApp/bin
 /CoreWebApp/obj
+/CoreWebApp/obj/Debug
+/CoreWebApp/obj/Debug/netcoreapp1.1
