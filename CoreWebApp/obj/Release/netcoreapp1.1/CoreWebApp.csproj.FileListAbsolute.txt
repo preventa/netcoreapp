@@ -1,9 +1,0 @@
-C:\Users\feper\OneDrive\Demos\CoreWebApp\CoreWebApp\bin\Release\netcoreapp1.1\CoreWebApp.deps.json
-C:\Users\feper\OneDrive\Demos\CoreWebApp\CoreWebApp\bin\Release\netcoreapp1.1\CoreWebApp.runtimeconfig.json
-C:\Users\feper\OneDrive\Demos\CoreWebApp\CoreWebApp\bin\Release\netcoreapp1.1\CoreWebApp.runtimeconfig.dev.json
-C:\Users\feper\OneDrive\Demos\CoreWebApp\CoreWebApp\bin\Release\netcoreapp1.1\CoreWebApp.dll
-C:\Users\feper\OneDrive\Demos\CoreWebApp\CoreWebApp\bin\Release\netcoreapp1.1\CoreWebApp.pdb
-C:\Users\feper\OneDrive\Demos\CoreWebApp\CoreWebApp\obj\Release\netcoreapp1.1\CoreWebApp.AssemblyInfo.cs
-C:\Users\feper\OneDrive\Demos\CoreWebApp\CoreWebApp\obj\Release\netcoreapp1.1\CoreWebApp.dll
-C:\Users\feper\OneDrive\Demos\CoreWebApp\CoreWebApp\obj\Release\netcoreapp1.1\CoreWebApp.pdb
-C:\Users\feper\OneDrive\Demos\CoreWebApp\CoreWebApp\obj\Release\netcoreapp1.1\CoreWebApp.csprojResolveAssemblyReference.cache
