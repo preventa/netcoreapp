@@ -6,7 +6,7 @@ node {
     }
 
     stage('Build image') {
-        app = docker.build("ec2-54-76-249-223.eu-west-1.compute.amazonaws.com:4443/admin/netcoreapp")
+        app = docker.build("admin/netcoreapp")
     }
 
     stage('Test image') {
