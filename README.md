@@ -10,10 +10,10 @@ Para hacer modificaciones de ejemplo es prefereible usar la siguiente ruta: **ne
 
 Para ejecutar en Docker, una vez se tenga la imagen creada y publicada en un repositorio:
 ```bash
-docker run -d -p 8444:80 --coreapp netcoreapp
+docker run -d -p 8444:80 --coreapp preventa/netcoreapp
 ```
 
 Para ejecutar en Docker Swarm, una vez se tenga la imagen creada y publicada en un repositorio:
 ```bash
-docker service create --replicas 3 --name coreapp --publish 8444:80 netcoreapp
+docker service create --replicas 3 --name coreapp --publish 8444:80 preventa/netcoreapp
 ```
