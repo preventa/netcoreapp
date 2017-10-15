@@ -16,7 +16,7 @@ node() {
     }
 
     stage('Push image') {
-        docker.withRegistry('https://ec2-54-76-249-223.eu-west-1.compute.amazonaws.com:4443', 'DTR') {
+        docker.withRegistry('https://ec2-52-50-120-159.eu-west-1.compute.amazonaws.com:4443', 'DTR') {
             app.push("latest")
         }
     }
