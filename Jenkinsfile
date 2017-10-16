@@ -4,6 +4,12 @@ node() {
     stage('Clone repository') {
         checkout scm
     }
+    
+    stage('Build Code') {
+        app.inside {
+            sh 'echo "Compiled"'
+        }
+    }
 
     stage('Build image') {
         app = docker.build("admin/netcoreapp")
